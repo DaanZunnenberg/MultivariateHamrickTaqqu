@@ -93,19 +93,20 @@ src/mht/
     testing/
         kernel_test.py        # KernelTest, Simulator, TestPlotter
         hypothesis.py         # MultipleHypTest, UnitRootTest, LaTeXTable
-        leybourne_mccabe.py   # Leybourne class (single canonical copy)
+        leybourne_mccabe.py   # Leybourne-McCabe test (single canonical copy)
     models/
         processes.py          # BivariateOUProcess, BivariateCorrelatedBM, ...
-    viz/
-        plots.py
+    io/
+        reader.py             # Reader class for simulation CSV files
+    viz/                      # TestPlotter re-exported here
     utils/
         decorators.py
-data/
-    reader.py                 # Reader class for simulation CSV files
 simulations/                  # Pre-computed CSV simulation results
 notebooks/
     example.ipynb
 tests/
+    test_processes.py
+    test_kernel_test.py
 ```
 
 ## References

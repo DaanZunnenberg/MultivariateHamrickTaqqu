@@ -16,7 +16,7 @@ from tqdm import tqdm
 
 __all__: list[str] = ["Reader"]
 
-_DEFAULT_SIM_DIR: Path = Path(__file__).parent.parent / "simulations"
+_DEFAULT_SIM_DIR: Path = Path(__file__).parent.parent.parent.parent / "simulations"
 
 
 class Reader:
