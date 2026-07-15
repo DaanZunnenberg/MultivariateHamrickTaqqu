@@ -1,4 +1,4 @@
-# mht -- Multivariate Stationarity Test for Diffusion Processes
+# mht -- Multivariate Nonparametric Stationarity Test for Diffusion Processes
 
 A nonparametric test for stationarity of a multivariate Itô diffusion process,
 based on comparing two estimators of the diffusion matrix whose convergence
