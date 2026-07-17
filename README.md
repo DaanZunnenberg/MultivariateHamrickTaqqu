@@ -167,5 +167,5 @@ tests/
   multiple testing under dependency. *Annals of Statistics*, 29(4): 1165–1188.
 - Leybourne, S.J., & McCabe, B.P.M. (1994). A consistent test for a unit root.
   *Journal of Business and Economic Statistics*, 12: 157–166.
-- Meyn, S.P., & Tweedie, R.L. (2012). *Markov Chains and Stochastic Stability* (2nd ed.).
+- Meyn, S.P., & Tweedie, R.L. (2009). *Markov Chains and Stochastic Stability* (2nd ed.).
   Cambridge University Press.
